@@ -12,7 +12,7 @@
 <p>
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black" /></a>
   <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-00F7FF?style=for-the-badge&logo=twitter&logoColor=black" /></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-00F7FF?style=for-the-badge&logo=instagram&logoColor=black" /></a>
+  <a href="https://instagram.com/anirudh_yadav01"><img src="https://img.shields.io/badge/Instagram-00F7FF?style=for-the-badge&logo=instagram&logoColor=black" /></a>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black" /></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" /></a>
 </p>
